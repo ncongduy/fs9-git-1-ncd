@@ -10,3 +10,5 @@ Git assignment for fs9
 4. Add a readme file with the name of `yourname.md` in `introductions` folder introducing yourself on branch `develop`
 5. Commit and push to the fork
 6. Open pull request to this repo from `fork:develop` to `upstream:develop`
+Make sure to review at least 2 pull request
+
